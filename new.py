@@ -1,4 +1,2 @@
-import os 
+print("2")
 
-pat = os.getcwd()
-print(pat)

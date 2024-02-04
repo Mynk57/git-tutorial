@@ -1,6 +1,2 @@
-a = 1
-b = 2
+print("3")
 
-print(a+b)
-
-print("Hello")
